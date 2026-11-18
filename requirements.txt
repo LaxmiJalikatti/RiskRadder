@@ -1,0 +1,11 @@
+﻿customtkinter
+nltk
+scikit-learn
+pandas
+joblib
+pdfplumber
+python-docx
+reportlab
+pytesseract
+pillow
+flask
