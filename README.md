@@ -4,6 +4,10 @@ RiskRadder is an AI-powered application that analyzes Terms and Conditions, Priv
 
 The application provides simple explanations and recommendations to help users understand potentially important terms before accepting an agreement.
 
+## 🌐 Live Demo
+
+Try RiskRadder here: https://riskradder.onrender.com/
+
 ## Features
 
 - **Multiple Input Options:** Upload PDF, DOCX, TXT, and image files, or paste text directly.
