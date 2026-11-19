@@ -9,3 +9,4 @@ reportlab
 pytesseract
 pillow
 flask
+gunicorn
